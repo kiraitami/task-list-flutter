@@ -3,7 +3,7 @@
 Simple todo list
 
 
-## Screens Demo
+## Screen Demo
 
 <img src="demo/demo.gif" width="220" height="400"/>
 
